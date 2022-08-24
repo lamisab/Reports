@@ -1,4 +1,6 @@
 # Routs
+
+/
 /login
 /sign
 /reports
